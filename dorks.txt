@@ -27,6 +27,9 @@ responsible disclosure bounty r=h:uk
 responsible disclosure bounty r=h:eu
 responsible disclosure swag r=h:nl
 responsible disclosure swag r=h:uk
+inurl:bug bounty intext:INR
+inurl:responsible disclosure intext:INR
+inurl:bug bounty intext:rupees
 responsible disclosure swag r=h:eu
 responsible disclosure reward r=h:nl
 responsible disclosure reward r=h:uk
